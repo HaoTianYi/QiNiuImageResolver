@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MdImageResolver:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MdImageResolver_jar</output-path>
+    <root id="archive" name="MdImageResolver.jar">
+      <element id="module-output" name="MdImageResolver" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gson-2.6.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/okio-1.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/okhttp-3.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/qiniu-java-sdk-7.1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
