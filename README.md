@@ -2,9 +2,11 @@
 
 推荐Typora（win感觉是最好的）
 
-而且这里解析的是绝对路径：`!\\[.*]\\(.*\\.(png|gif|jpg|jpeg)\\)`
+而且这里解析的是绝对路径
 
-形如：`![snipaste_20170712_074225](C:\Users\天\Desktop\snipaste_20170712_074225.png)`在Typora中直接拖拽就形成这样的地址
+形如：`![snipaste_20170712_074225](C:\Users\天\Desktop\snipaste_20170712_074225.png)`
+
+在Typora中直接拖拽就形成这样的地址
 
 ### 前提
 
